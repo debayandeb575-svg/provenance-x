@@ -1,0 +1,21 @@
+{
+  "file": "C:\\Users\\Debayan\\Desktop\\provenance-x\\provenance-x\\demo_data\\leaked_samples\\leaked.pdf",
+  "watermark": {
+    "expected": "73015197f2c642f52de542ee",
+    "recovered": "",
+    "match": false,
+    "confidence": 0.0
+  },
+  "structural_trace": "73015197f2c642f52de542ee",
+  "receipt_signature_valid": true,
+  "witness_threshold": {
+    "threshold": 2,
+    "valid_witnesses": [
+      "w0",
+      "w1",
+      "w2"
+    ],
+    "satisfied": true
+  },
+  "merkle_inclusion_valid": true
+}
